@@ -204,3 +204,36 @@ footer {
 .three-reasons-heading {
     margin-bottom: 15px;
 }
+
+.personl-info-item {
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+
+.personl-info-item .key,
+.personl-info-item .value {
+    padding-right: 8px;
+    display: inline-block;
+}
+
+.personl-info-item .key p,
+.personl-info-item .value p {
+    margin: 0;
+}
+
+.personl-info-item .key {
+    width: 30%;
+    margin-right: 21px;
+    padding-top: 2px;
+    vertical-align: top;
+}
+
+.personl-info-item .key p {
+    font-weight: 700;
+}
+
+.personl-info-item .value {
+    width: 60%;
+    position: relative;
+}
